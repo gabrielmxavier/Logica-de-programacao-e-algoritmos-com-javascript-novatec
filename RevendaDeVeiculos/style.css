@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: aliceblue;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+}
+
+h1 {
+    margin-bottom: 20px;
+    font-size: 3rem;
+    border-bottom: 1px solid black;
+}
+
+.labelCarro,
+.labelPreco {
+    display: block;
+    padding: 5px 0;
+}
+
+input {
+    outline: none;
+}
+
+input[type="button"] {
+    margin: 20px;
+}

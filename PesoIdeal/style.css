@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: blanchedalmond;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+}
+
+h1 {
+    margin: 20px;
+    border-bottom: 1px solid black;
+}
+
+label {
+    display: block;
+    padding: 5px 0;
+}
+
+input[type="button"] {
+    display: inline-block;
+}
+
+.sexoDaPessoa {
+    display: inline-block;
+    padding: 5px 5px 5px 0;
+}
+
+input[type="radio"] {
+    margin: 5px 5px 5px 0;
+}
+
+input[type="button"] {
+    padding: 5px;
+    margin: 20px 0;
+}

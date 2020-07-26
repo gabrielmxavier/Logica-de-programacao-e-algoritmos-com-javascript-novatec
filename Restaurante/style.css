@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: cornsilk;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+    width: auto;
+}
+
+h1 {
+    margin: 20px;
+    font-size: 3rem;
+    border-bottom: 1px solid black;
+}
+
+.labelPreco,
+.labelPeso {
+    display: block;
+    padding: 5px 0;
+}
+
+input[type="button"] {
+    cursor: pointer;
+    margin: 20px;
+    padding: 5px;
+    width: 13em;
+}
+

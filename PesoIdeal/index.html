@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="style.css">
+    <title>Calculadora de Peso</title>
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <h1>Programa Cálculo do Peso</h1>
+        <div>
+            <label for="" id="labelNome">Digite Seu Nome</label>
+            <input type="text" id="inputNome">
+        </div>
+        <div>
+            <label for="" class="labelSeuSexo">Selecione Seu Sexo</label>
+            <p class="sexoDaPessoa"><input type="radio" name="sexo" value="Masculino" id="masculino">Masculino</p>
+            <p class="sexoDaPessoa"><input type="radio" name="sexo" value="Feminino" id="feminino">Feminino</p>
+        </div>
+        <div>
+            <label for="" class="labelAltura">Sua Altura</label>
+            <input type="text" id="inputAltura">
+        </div>
+        <div>
+            <input type="button" value="Calcular Peso" id="btnCalcularPeso">
+            <input type="button" value="Limpar Campos" id="btnLimpar">
+        </div>
+        <div>
+            <p id="outResultadoDoPeso"></p>
+        </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
