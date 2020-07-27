@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: blanchedalmond;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+    width: auto;
+}
+
+h1 {
+    margin: 20px;
+    padding: 5px 0;
+    border-bottom: 1px solid black;
+}
+
+label {
+    display: block;
+    padding: 5px 0;
+}
+
+input[type="button"] {
+    margin: 20px;
+    padding: 5px;
+    width: 12.7em;
+}
