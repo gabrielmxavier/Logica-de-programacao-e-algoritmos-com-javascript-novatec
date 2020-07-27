@@ -3,7 +3,7 @@
 Resoluções das questões e exemplos do livro Lógica de programação e Algoritmos com Javascript da Editora NOVATEC; Autor: Edécio Fernando Iepsen.
 
 ## Questões por Capítulo
-O **capítulo 1** é uma introdução a lógica de pregramação e algoritimos, uma apresentação dos conceitos básicos do JavaScript como variáveis, uma explicação de como instalar um editor de código; no caso do livro o [Visual Studio Code](https://code.visualstudio.com/).
+O **capítulo 1** é uma introdução a lógica de programação e algoritimos, uma apresentação dos conceitos básicos do JavaScript como variáveis, uma explicação de como instalar um editor de código; no caso do livro o [Visual Studio Code](https://code.visualstudio.com/).
 
 **Capítulo 2** - **_Integração com HTML_**
 
