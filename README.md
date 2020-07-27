@@ -35,7 +35,7 @@ O **capítulo 1** é uma introdução a lógica de programação e algoritimos, 
 
 [Parquímetro](https://github.com/gabrielmxavier/questoes-Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/Parquimetro);
 
-[Lados do Triângulo]()
+[Lados do Triângulo](https://github.com/gabrielmxavier/questoes-Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/LadosDoTriangulo);
 
 **Capítulo 4** - **_Repetições_**
 
