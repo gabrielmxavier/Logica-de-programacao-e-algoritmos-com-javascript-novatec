@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: blanchedalmond;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+    width: auto;
+}
+
+label {
+    display: block;
+    padding: 5px 0;
+}
+
+input[type="button"] {
+    margin: 10px;
+    padding: 5px;
+    width: 12.7em;
+}
+
+pre {
+    font-size: 15px;
+}
