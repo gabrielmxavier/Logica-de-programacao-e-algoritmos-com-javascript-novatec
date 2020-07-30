@@ -39,4 +39,12 @@ O **capítulo 1** é uma introdução a lógica de programação e algoritimos, 
 
 **Capítulo 4** - **_Repetições_**
 
-Em breve será adicionado os projetos deste capítulo.
+[Tabuada](https://github.com/gabrielmxavier/questoes-Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/Tabuada);
+
+[Números Decrescentes](https://github.com/gabrielmxavier/questoes-Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/NumerosDecrescentes);
+
+[Contas do Mês](https://github.com/gabrielmxavier/questoes-Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/ContasDoMes);
+
+[Números Primos](https://github.com/gabrielmxavier/questoes-Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/NumerosPrimos)
+
+Em breve será adicionado os outros projetos deste capítulo.
