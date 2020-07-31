@@ -47,6 +47,18 @@ O **capítulo 1** é uma introdução a lógica de programação e algoritimos, 
 
 [Contas do Mês](https://github.com/gabrielmxavier/questoes-Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/ContasDoMes);
 
-[Números Primos](https://github.com/gabrielmxavier/questoes-Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/NumerosPrimos)
+[Números Primos](https://github.com/gabrielmxavier/questoes-Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/NumerosPrimos);
 
-Em breve será adicionado os outros projetos deste capítulo.
+[Fábrica de Estrelas](https://github.com/gabrielmxavier/questoes-Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/FabricaDeEstrelas);
+
+[Repete Fruta](https://github.com/gabrielmxavier/questoes-Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/RepeteFruta);
+
+[Criação de Chinchilas](https://github.com/gabrielmxavier/questoes-Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/CriacaoDeChinchilas);
+
+[Números Perfeitos](https://github.com/gabrielmxavier/questoes-Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/NumerosPerfeitos);
+
+[Fábrica de Estrelas 2](https://github.com/gabrielmxavier/questoes-Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/FabricaDeEstrelas2);
+
+**Capítulo 5** - **_Arrays / Vetores_**
+
+Em breve será adicionado os projetos deste capítulo.
