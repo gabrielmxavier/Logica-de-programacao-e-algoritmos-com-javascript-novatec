@@ -2,6 +2,8 @@
 
 Resoluções das questões e exemplos do livro Lógica de programação e Algoritmos com Javascript da Editora NOVATEC; Autor: Edécio Fernando Iepsen.
 
+As resoluções Oficiais feitas pelo autor do livro podem ser baixadas no [SITE OFICIAL DA NOVATEC](https://novatec.com.br/livros/logica-programacao-algoritmos-com-javascript/).
+
 ## Questões por Capítulo
 O **capítulo 1** é uma introdução a lógica de programação e algoritimos, uma apresentação dos conceitos básicos do JavaScript como variáveis, uma explicação de como instalar um editor de código; no caso do livro o [Visual Studio Code](https://code.visualstudio.com/).
 
@@ -39,4 +41,12 @@ O **capítulo 1** é uma introdução a lógica de programação e algoritimos, 
 
 **Capítulo 4** - **_Repetições_**
 
-Em breve será adicionado os projetos deste capítulo.
+[Tabuada](https://github.com/gabrielmxavier/questoes-Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/Tabuada);
+
+[Números Decrescentes](https://github.com/gabrielmxavier/questoes-Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/NumerosDecrescentes);
+
+[Contas do Mês](https://github.com/gabrielmxavier/questoes-Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/ContasDoMes);
+
+[Números Primos](https://github.com/gabrielmxavier/questoes-Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/NumerosPrimos)
+
+Em breve será adicionado os outros projetos deste capítulo.
