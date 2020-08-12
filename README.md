@@ -61,4 +61,14 @@ O **capítulo 1** é uma introdução a lógica de programação e algoritimos, 
 
 **Capítulo 5** - **_Arrays / Vetores_**
 
-Em breve será adicionado os projetos deste capítulo.
+[Consultório Odontológico](https://github.com/gabrielmxavier/questoes-Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/ConsultorioOdontologico);
+
+[Descubra o Número](https://github.com/gabrielmxavier/questoes-Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/DescubraONumero);
+
+[Revenda Herbie](https://github.com/gabrielmxavier/questoes-Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/RevendaHerbie);
+
+[Brinquedoteca](https://github.com/gabrielmxavier/questoes-Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/ProgramaBrinquedoteca);
+
+[Jogos Eliminatórios](https://github.com/gabrielmxavier/questoes-Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/JogosEliminatorios);
+
+Em breve será adicionado os outros exercícios deste capítulo.
