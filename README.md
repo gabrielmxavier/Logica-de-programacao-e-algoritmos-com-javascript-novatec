@@ -71,4 +71,8 @@ O **capítulo 1** é uma introdução a lógica de programação e algoritimos, 
 
 [Jogos Eliminatórios](https://github.com/gabrielmxavier/questoes-Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/JogosEliminatorios);
 
+[Números em Ordem](https://github.com/gabrielmxavier/questoes-Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/NumerosEmOrdem);
+
+[Programa Concurso](https://github.com/gabrielmxavier/questoes-Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/ProgramaConcurso);
+
 Em breve será adicionado os outros exercícios deste capítulo.
