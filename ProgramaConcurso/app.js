@@ -10,6 +10,7 @@ let candidatosAcertos = [];
 function adicionar() {
     
     let candidato = inputCandidato.value;
+    
     let acertos = Number(inputAcertos.value);
 
     if ((candidato == '') || (acertos == '') || isNaN(acertos)) {
