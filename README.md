@@ -75,4 +75,8 @@ O **capítulo 1** é uma introdução a lógica de programação e algoritimos, 
 
 [Programa Concurso](https://github.com/gabrielmxavier/questoes-Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/ProgramaConcurso);
 
-Em breve será adicionado os outros exercícios deste capítulo.
+[Últimas Notícias](https://github.com/gabrielmxavier/Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/UltimasNoticias);
+
+**Capítulo 6** - **_Strings e Datas_**
+
+Em breve será adicionado os exercícios deste capítulo.
