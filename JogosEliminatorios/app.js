@@ -48,16 +48,15 @@ btnListar.addEventListener('click', listarClube);
 function mostarTabela() {
     
     let jogos = ''
-    let ultimoClube = todosClubes[todosClubes.length - 1];
+    let ultimoElemento = (todosClubes.length -1)
 
-    if ((todosClubes.length % 2) !== 0 || todosClubes.length == 0) {
+    if ((todosClubes.length % 2) != 0 || todosClubes.length == 0) {
         alert('Adicione mais um clube para poder montar a tabela de jogos !');
         inputClube.focus();
         return;
     }
-
-    for (let index = 0; index < (todosClubes.length - 1) / 2; index++) {
-        jogos += `${todosClubes[index]} x ${ultimoClube - index}\n`;
+    for (let index = 0; index < (ultimoElemento)/2; index++){
+        jogos +=(`${todosClubes[index]} x ${todosClubes[(ultimoElemento)-index]}\n`)
     }
 
     outLista.textContent = jogos;
